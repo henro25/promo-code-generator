@@ -10,3 +10,8 @@
 .env.development
 .env.test
 .env.production
+
+# Ignore generated files
+promo_codes*.csv
+promo_codes*.xlsx
+promo_codes_unique.db
